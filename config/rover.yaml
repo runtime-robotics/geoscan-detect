@@ -1,0 +1,7 @@
+# Paths are resolved relative to this YAML, independent of the current directory.
+path: ../dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: rover

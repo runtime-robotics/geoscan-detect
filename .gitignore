@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+dataset/
+captures/
+runs/
+models/
+*.pt
+*.onnx
+*.rknn
+*_rknn_model/
